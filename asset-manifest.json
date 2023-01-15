@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/supersports/static/css/main.b09cac50.css",
+    "main.js": "/supersports/static/js/main.f8e60e27.js",
+    "static/js/787.f87d2b1c.chunk.js": "/supersports/static/js/787.f87d2b1c.chunk.js",
+    "static/media/vid1.mp4": "/supersports/static/media/vid1.e9e020bca52c6b25ecc7.mp4",
+    "static/media/vids.mp4": "/supersports/static/media/vids.c1adc035ac0c00c198d0.mp4",
+    "static/media/rugby.png": "/supersports/static/media/rugby.1b9d00e5a80f4c34d6f2.png",
+    "static/media/tennis.png": "/supersports/static/media/tennis.0155957a64920b43df01.png",
+    "static/media/football.png": "/supersports/static/media/football.2a3eaf94e704c72b0b7b.png",
+    "static/media/cricket.png": "/supersports/static/media/cricket.bbc432a10e8d9dd720eb.png",
+    "index.html": "/supersports/index.html",
+    "main.b09cac50.css.map": "/supersports/static/css/main.b09cac50.css.map",
+    "main.f8e60e27.js.map": "/supersports/static/js/main.f8e60e27.js.map",
+    "787.f87d2b1c.chunk.js.map": "/supersports/static/js/787.f87d2b1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b09cac50.css",
+    "static/js/main.f8e60e27.js"
+  ]
+}
