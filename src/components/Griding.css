@@ -1,0 +1,45 @@
+.griding .container{
+    display: flex;
+    gap: 1em;
+    position: relative;
+   z-index: 10;
+
+}
+
+.griding{
+    background-color: white;
+    margin-top: 40px;
+   
+}
+
+.griding1{
+    flex-basis: 33%;
+    border: 1px solid white;
+}
+
+.griding img{
+   height: 320px; 
+}
+
+@media(max-width: 765px){
+    .griding1 img{
+       height: 180px;
+       width: 300px;
+    }
+
+    .griding1 h5{
+        font-size: 13px;
+    }
+
+    .griding1 h6{
+       display: none;
+    }
+
+    .griding .container{
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    
+
+}

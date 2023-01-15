@@ -1,0 +1,32 @@
+.content-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.tabs{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.tabs-leagues{
+    flex-basis: 300px;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+    border-right: 5px solid grey;
+}
+
+.tabs-standings{
+    flex-basis: 300px;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+}

@@ -1,0 +1,20 @@
+.fixture{
+    margin-top: 50px;
+}
+.fixtures .container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.letter h4{
+    text-align: start;
+}
+
+.left{
+    flex-basis: 50%;
+}
+
+.right{
+    display: flex;
+    flex-basis: 50%;
+}

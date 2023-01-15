@@ -1,0 +1,126 @@
+[
+    {
+        "title": "NETWORK",
+        "icon": "FaChevronDown",
+        
+        "childrens": [
+            {
+                "title": "SuperSport.com"
+            },
+            {
+                "title": "DSTV" 
+            },
+            {
+                "title": "Showmax"
+            },
+  
+            
+            {
+                "title": "Box Office"
+            },
+            {
+                "title": "M-Net"
+            }  
+        ]
+    },
+    {
+        
+            "title": "SPORTS",
+            "icon": "bi-phone-fill",
+            "childrens": [
+                {
+                    "title": "Football"
+                },
+                {
+                    "title": "Rugby"
+                },
+                {
+                    "title": "Cricket"
+                },
+                {
+                    "title": "Golf"
+                },
+                {
+                    "title": "MotorSport"
+                },
+                {
+                    "title": "Tennis"
+                },
+                {
+                    "title": "Athletics"
+                },
+                {
+                    "title": "Cycling"
+                },
+                {
+                    "title": "Boxing"
+                },
+                {
+                    "title": "Aquatics"
+                }
+            ]
+        }, 
+    
+    {
+            "title": "ACCESS",
+            "icon": "bi-phone-fill",
+            "childrens": [
+                {
+                    "title": "TV Guide"
+                },
+                {
+                    "title": "Watch Live"
+                },
+                {
+                    "title": "Podcast"
+                }
+            ]
+        },
+  
+    {
+        "title": "Win",
+            "icon": "bi-phone-fill",
+            "childrens": [
+                {
+                    "title": "Competition"
+                },
+                {
+                    "title": "Games"
+                }
+            ]
+    },
+    {
+        "title": "Mobile Apps",
+        "icon": "bi-phone-fill",
+        "childrens": [
+            {
+                "title": "IOS App"
+            },
+            {
+                "title": "Android App"
+            }
+        ]
+    },
+  
+    {
+        "title": "OTHER",
+        "icon": "bi-phone-fill",
+        "childrens": [
+            {
+                "title": "Terms and Conditions"
+            },
+            {
+                "title": "License Agreements"
+            },
+            {
+                "title": "Privacy notice"
+            },
+            {
+                "title": "About Us"
+            },
+            {
+                "title": "SuperSport Schools"
+            }
+        ]
+    }
+  ]

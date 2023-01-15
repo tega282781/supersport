@@ -1,0 +1,590 @@
+.griding2 .container img{
+    height: 220px;
+}
+
+.photo{
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 40%;
+    gap: 1em;
+}
+.photo1{
+    width: auto;
+    flex-basis: 30%;
+    flex-shrink: 1;
+    flex-wrap: wrap;
+}
+
+.griding2 .container{
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+   
+}
+
+.griding2{
+    background-color: white;
+    margin-top: 40px;
+    position: relative;
+    z-index: 10;
+    
+}
+
+.vids{
+    flex-basis: 50%;
+    flex-shrink: 1;
+}
+
+.button1 .container{
+    margin-top: 40px;
+    justify-content: center;
+}
+
+
+
+.button1 button{
+    border-radius: 20px;
+    height: 40px;
+    width: 150px;
+}
+
+.latest1{
+    width: 100%;
+    margin-top: 40px;
+}
+
+.latest1 p{
+    text-align: left;
+}
+
+.latest{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.1em;
+    margin-top: 30px;
+    border: 1px solid rgb(235, 227, 227);
+}
+
+.latest div{
+    flex-basis: 40%;
+    flex-shrink: 1;
+}
+
+.latest2{
+    flex-basis: 60%;
+    flex-shrink: 1;
+}
+
+.latest2 img{
+    height: 500px;
+    width: 650px;
+}
+
+.latest div p{
+   align-items: flex-start;
+}
+
+.latest div h5{
+    align-items: flex-start;
+    text-align: left;
+}
+
+.news{
+    margin-top: 60px;
+}
+.news .container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+
+.news1{
+    display: flex;
+    flex-basis: 48%;
+    flex-shrink: 1;
+    border: 1px solid rgb(235, 227, 227);
+    flex-shrink: 1;
+}
+
+.news1 img{
+    flex: 50%;
+    flex-shrink: 1;
+}
+
+.news1 p{
+    flex-basis: 50%;
+    flex-shrink: 1;
+    margin-top: 50px;
+}
+
+
+.long{
+    margin-top: 100px;
+}
+
+.long .container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    width: 100%;
+    height: 500px;
+}
+
+
+
+
+.long .container  .football1{
+    background-image: url(/public/images/football.png);
+    background-position: center center;
+    flex-shrink: 1;
+    flex-basis: 23%;
+    background-repeat: no-repeat;
+}
+
+.football1 div a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.football1 div{
+    margin-top: 300px;
+}
+
+
+
+.long .container  .tennis1{
+    background-image: url(/public/images/tennis.png);
+    background-position: center center;
+    flex-shrink: 1;
+    flex-basis: 23%;
+    background-repeat: no-repeat;
+}
+
+
+.tennis1 div a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.tennis1 div{
+    margin-top: 300px;
+}
+
+.long .container  .rugby1{
+    background-image: url(/public/images/rugby.png);
+    background-position: center center;
+    flex-shrink: 1;
+    flex-basis: 23%;
+    background-repeat: no-repeat;
+   
+}
+
+.rugby1 div a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.rugby1 div{
+    margin-top: 300px;
+}
+
+
+
+.long .container  .cricket1{
+    background-image: url(/public/images/cricket.png);
+    background-position: center center;
+    flex-shrink: 1;
+    flex-basis: 23%;
+    background-repeat: no-repeat;
+}
+
+.cricket1 div a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.cricket1 div{
+    margin-top: 300px;
+}
+
+
+.footer .container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer .container .foot{
+    flex-basis: 16.667%;
+    flex-shrink: 1;
+}
+
+
+.foot h5{
+    text-align: center;
+}
+
+
+.foot ul li{
+    list-style: none; 
+    text-align: left;
+}
+
+.foot ul li a h5{
+    text-align: left;
+}
+
+.foot ul li a{
+    text-decoration: none;
+    color: rgb(133, 127, 127);
+    font-size: 13px;
+}
+
+.footer{
+    margin-top: 100px;
+}
+
+
+
+.bottom .container .iconic{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.2em;
+    justify-content: center;
+  
+}
+
+.iconic a{
+    font-size: 30px;
+}
+
+.bottom1{
+    margin-top: 40px;
+}
+
+.bottom1 .container{
+    height: 150px;
+}
+
+.bottom1 .container .foot2{
+    display: flex;
+    gap: 1.3em;
+    flex-wrap: wrap;
+}
+
+.foot2 div a{
+    text-decoration: none;
+    font-size: 12px;
+    color: rgb(133, 127, 127);
+}
+
+.foot2 div img{
+    height: 50px;
+}
+
+.copy{
+    font-size: 12px;
+    color: rgb(133, 127, 127);
+}
+
+.real{
+    display: flex;
+    flex-basis: 70%;
+    flex-shrink: 1;
+}
+
+.real-pic{
+    flex-basis: 20%;
+    flex-shrink: 1;
+}
+
+
+
+.sidebar-title{
+    display: none;
+    cursor: pointer;
+
+}
+
+  .sidebar-item{
+    display: block;
+  }
+
+  .sidebar-content{
+    padding-top: .25em;
+    height: 0;
+    overflow: hidden;
+    
+  }
+  .sidebar-item.open > .sidebar-content{
+    height: auto;
+  }
+
+  .sidebar-title{
+    justify-content: space-between;
+    font-size: 15px;
+    color: rgb(133, 127, 127);
+  }
+
+ 
+
+.footer4{
+    margin-top: 40px;
+}
+
+.card{
+    height: 230px;
+    margin: 50px;
+    overflow: hidden;
+    width:220px ;
+    cursor: pointer;
+    flex-shrink: 1;
+    
+}
+
+.card img{
+    height: 200px;
+    width: 220px;
+    box-sizing: border-box;
+
+}
+
+.intro{
+    height: 40px;
+    width: 220px;
+    padding: 6px;
+    color: black;
+    font-size: 12px;
+    flex-shrink: 1;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(199, 206, 207);
+}
+
+.intro h3{
+    font-size: 13px;
+    width: 200px;
+}
+
+.all-card{
+    margin-top: 40px;
+}
+
+.all-card .container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(220, 228, 226);
+}
+
+.intro p{
+    width: 200px;
+    text-align: center;
+    align-items: center;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.card:hover .intro{
+    height: 220px;
+    bottom: 240px;
+    transition: 1s ease-in-out;
+    background-color: transparent;
+}
+
+.card:hover .intro p{
+    visibility: visible;
+    opacity: 1;
+}
+
+
+@media(min-width: 1200px){
+    .all-card .container .hid{
+        display: none;
+    }
+}
+
+
+
+@media(max-width: 768px){
+    h6{
+        font-size: 10px;
+    }
+   
+
+    .latest2 img{
+        height: 400px;
+        width: 450px;
+       
+    }
+
+    
+
+    .latest{
+        border: none;
+        flex-direction: column;
+    }
+
+    .sidebar-title{
+        display: flex;
+        
+    }
+
+        .foot2{
+            flex-direction: column;
+        }
+        .footer{
+            display: none;
+        }
+
+        .football1{
+            flex-basis: 50%;
+        }
+        .cricket1{
+            flex-basis: 50%;
+        }
+        .tennis{
+            flex-basis: 50%;
+        }
+        .rugby1{
+            flex-basis: 50%;
+        }
+
+        .long .container{
+            flex-direction: column;
+        }
+
+        .long{
+            justify-content: center;
+            align-content: center;
+        }
+
+       
+        .latest .latest2 img{
+            height: 300px;
+            width: 400px;  
+        }
+
+        .latest{
+            flex-direction: column;
+        }
+
+        .latest div p{
+            text-align: center;
+         }
+
+         .latest div h5{
+            text-align: center;
+        }
+
+}
+
+@media(max-width: 1000px){
+    .griding2 .container{
+        flex-direction: column;
+    }
+
+    .news1{
+        display: flex;
+        flex-direction: column;
+        flex-basis: 45%;
+        flex-shrink: 1;
+    }
+
+    .news .container{
+        align-content: center;
+        justify-content: center;
+    }
+
+    
+
+    .latest2 img{
+        height: 400px;
+        width: 450px;
+       
+    }
+
+    .latest{
+        border: none;
+    }
+
+    .news1 p{
+        margin-top: 0;
+      
+    } 
+
+    .long .container{
+        flex-wrap: wrap;
+        gap: 0.5em;
+        height: auto;
+    }
+
+    .long .container .football{
+        flex-basis: 47%;
+        width: 47%;
+        flex-wrap: wrap;
+    }
+
+    .long .container .tennis{
+        flex-basis: 47%;
+        width: 47%;
+        flex-wrap: wrap;
+    }
+
+    .long .container .cricket{
+        flex-basis: 47%;
+        width: 47%;
+        flex-wrap: wrap;
+    }
+
+    .long .container .rugby{
+        flex-basis: 47%;
+        width: 47%;
+        flex-wrap: wrap;
+    }
+
+
+    
+
+   
+}
+
+@media(max-width: 322px){
+    *{
+       padding: 0;
+       margin: 0;
+       box-sizing: border-box;
+    }
+
+    .griding2 {
+        align-content: center;
+        justify-content: center;
+    }
+
+    .news {
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+    }
+
+}
+
+@media(max-width: 430px){
+    .photo{
+        flex-direction: column;
+    }
+
+    .photo1 img{
+        height: 150px;
+        width: 200px;
+    }
+}
